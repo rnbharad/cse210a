@@ -223,7 +223,7 @@ class Interpreter(NodeVisitor):
     def visit_Num(self, node):
         return node.value
 
-    def interpret(self):
+    def eval(self):
         tree = self.parser.parse()
         return self.visit(tree)
 
@@ -243,7 +243,7 @@ def main():
         lexer = Lexer(text)
         parser = Parser(lexer)
         interpreter = Interpreter(parser)
-        result = interpreter.interpret()
+        result = interpreter.eval()
         print(result)
 
 
