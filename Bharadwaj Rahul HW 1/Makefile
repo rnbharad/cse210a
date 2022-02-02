@@ -1,3 +1,3 @@
 arith: arith.py
-	python ./$< >$@
+	python ./$< >$@ 
 	chmod +x $@
