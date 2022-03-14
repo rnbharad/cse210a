@@ -1,0 +1,21 @@
+commit 19f3037af34d75c077126dc36f1f12d3bfac1bd8 (HEAD -> main, origin/main, origin/HEAD)
+Author: Rahul Bharadwaj <rnbharad@ucsc.edu>
+Date:   Sun Mar 13 23:33:47 2022 -0700
+
+    My commit for HW4
+
+commit a2e2efad435fe7ae5a25ea9f566d2e10dc59ef20
+Author: Rahul <rnbharad@ucsc.edu>
+Date:   Sun Mar 6 17:31:57 2022 -0800
+
+    My first commit for HW2
+
+commit d6a60046b993cfcb598c1ede01a5716810b4448f
+Author: Rahul <rnbharad@ucsc.edu>
+Date:   Mon Feb 28 00:28:06 2022 -0800
+
+    Final FINAL HW6
+
+commit 431d30b844dd5d2e542b1d0ae5ce70589b46c3f3
+Author: Rahul <rnbharad@ucsc.edu>
+Date:   Mon Feb 28 00:23:15 2022 -0800
